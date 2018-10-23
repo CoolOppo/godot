@@ -90,9 +90,14 @@ bld/
 [Oo]bj/
 *.debug
 *.dSYM
+cmake-build-*/
 
 # Visual Studio cache/options directory
 .vs/
+
+# CLion/IDEA
+.idea/
+CMakeLists.txt
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
